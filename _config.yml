@@ -1,0 +1,8 @@
+title: Shadaab Ahmed
+# logo: /assets/img/headshot_circle.png
+description: Data Engineer with 3.5+ YOE
+show_downloads: false
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
