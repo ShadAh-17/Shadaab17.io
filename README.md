@@ -25,7 +25,7 @@ I am an experienced Data Engineer with over 3.5 years of expertise in managing l
   - Optimized ETL workflows using **Apache Spark**, **Airflow**, and **Kafka**, ensuring low-latency, high-throughput data systems.
 
 - **Cloud & DevOps Expertise:**  
-  - Migrated complex batch pipelines to **Kubernetes**, achieving **20% cost savings** with zero downtime.  
+  - Migrated complex batch pipelines to **Kubernetes**, achieving **40% cost savings** with zero downtime.  
   - Automated infrastructure provisioning and deployments using **Terraform** and **CI/CD pipelines**.
 
 - **Advanced Data Processing:**  
