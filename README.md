@@ -1,4 +1,3 @@
-```markdown
 # **Shadaab Ahmed - Data Engineer Portfolio**  
 Welcome to my portfolio! Here, I showcase my journey as a Data Engineer, highlighting my projects, technical expertise, and passion for creating scalable, data-driven solutions. This portfolio reflects my commitment to innovation, continuous learning, and delivering impactful results.
 
@@ -95,6 +94,7 @@ Feel free to connect or reach out for collaborations or opportunities:
 - **Email:** [shadaab.ah17@gmail.com](mailto:shadaab.ah17@gmail.com)  
 - **GitHub:** [ShadAh-17](https://github.com/ShadAh-17)  
 - **LinkedIn:** [Shadaab Ahmed](#)
+- **Leetcode:** [LeetcodeLink](https://leetcode.com/u/ShAh-25/)
 
 ---
 
