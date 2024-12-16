@@ -44,7 +44,7 @@ I am an experienced Data Engineer with over 3.5 years of expertise in managing l
 
 ### **Big Data & Cloud Platforms:**  
 - Kafka, Apache Spark, Databricks, Airflow, PostgreSQL, Cassandra, MongoDB  
-- AWS, GCP  
+- AWS (Lambda, S3, RDS, EC2, EMR, EKS, Redshift)  
 
 ### **DevOps & Orchestration:**  
 - Docker, Kubernetes, Terraform, Ansible, CI/CD pipelines  
