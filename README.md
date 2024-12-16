@@ -120,7 +120,7 @@ Let’s collaborate and create impactful data-driven solutions together!
 - **Email:** [shadaab.ah17@gmail.com](mailto:shadaab.ah17@gmail.com)  
 - **GitHub:** [ShadAh-17](https://github.com/ShadAh-17)  
 - **LinkedIn:** [Shadaab Ahmed](https://www.linkedin.com/in/shadaab25ahmed517/)  
-- **LeetCode:** [Shadaab's LeetCode Profile](https://leetcode.com/u/ShAh-25/)  
+- **LeetCode:** [Profile](https://leetcode.com/u/ShAh-25/)  
 
 ---
 
